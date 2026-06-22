@@ -1,6 +1,6 @@
 # Genomic representation gaps in Colombian bat diversity (Chiroptera)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20804719.svg)](https://doi.org/10.5281/zenodo.20804719)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0450--5586-brightgreen)](https://orcid.org/0009-0002-0450-5586)
 
@@ -121,7 +121,7 @@ Open `06_arbol_publicable.R` in RStudio and run.
 ## Data availability
 
 Raw metadata tables and alignment files are deposited at Zenodo:
-> Melo Escobar, D.A. (2026). Genomic representation gaps in Colombian bat diversity — dataset. *Zenodo*. https://doi.org/10.5281/zenodo.XXXXXXX
+> Melo Escobar, D.A. (2026). Genomic representation gaps in Colombian bat diversity — dataset. *Zenodo*. https://doi.org/10.5281/zenodo.20804719
 
 Sequences analyzed in this study are publicly available at:
 - NCBI GenBank: https://www.ncbi.nlm.nih.gov

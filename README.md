@@ -12,7 +12,7 @@ Bioinformatic assessment of genomic sequence availability for Colombian bats in 
 
 ## Overview
 
-Colombia harbors 224 bat species — approximately 15% of global Chiroptera richness. Despite this exceptional diversity, only 26% of Colombian bat species have any genomic representation in public databases. This repository contains all scripts used to quantify this gap, characterize available sequences by marker and taxonomy, and reconstruct maximum likelihood phylogenies from publicly available data.
+Colombia harbors 222 bat species — approximately 15% of global Chiroptera richness. Despite this exceptional diversity, only 26% of Colombian bat species have any genomic representation in public databases. This repository contains all scripts used to quantify this gap, characterize available sequences by marker and taxonomy, and reconstruct maximum likelihood phylogenies from publicly available data.
 
 **Key findings:**
 - 445 sequences from NCBI GenBank representing 57 species

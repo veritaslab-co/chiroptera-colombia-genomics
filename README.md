@@ -18,8 +18,8 @@ Colombia harbors 222 bat species — approximately 16% of global Chiroptera rich
 
 - 445 sequences from NCBI GenBank representing **56 valid species**
 - 177 records from BOLD Systems representing 29 species
-- **56 species** total with genomic representation (**25.2% of 222**)
-- **166 species** with no sequence data in any public database
+- **57 species** total with genomic representation (**25.7% of 222**)
+- **165 species** with no sequence data in any public database
 - COI barcode available for only **16 species** in NCBI (COI coverage index: **0.54** sequences/species — second-lowest in the Neotropics)
 - **9 endemic bat species**: none has any publicly available sequence data
 - **4 families entirely absent** from both databases: Emballonuridae, Mormoopidae, Noctilionidae, Furipteridae
